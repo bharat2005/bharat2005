@@ -20,7 +20,7 @@ A cute social media MVP for gossip with image/video posts, reactions, and user f
 Salon booking app with 24+ screens, catalogs, stylist blogs, maps, and magazine feeds  
 → [View Repo](https://github.com/bharat2005/queeny-app)
 
-#4 Coming soon...
+More Coming soon...
 
 ---
 
