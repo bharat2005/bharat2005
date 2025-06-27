@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Bharat!
 
-<!--
-**bharat2005/bharat2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 React Native Developer | Building 100 Emotionally Designed MVPs  
+🎯 On a mission to create “Mupple” – a dating app for college students  
+📍 2nd-Year CSE @ LPU | Open to Internships  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌸 Featured Projects:
+
+#### ✨ Mizzy  
+A girly fashion shopping app with Firebase auth, optimistic cart, and infinite scroll  
+→ [View Repo](https://github.com/bharat2005/mizzy-app)
+
+#### 💬 Gossi  
+A cute social media MVP for gossip with image/video posts, reactions, and user filtering  
+→ [View Repo](https://github.com/bharat2005/gossi-app)
+
+#### 👑 Queeny  
+Salon booking app with 24+ screens, catalogs, stylist blogs, maps, and magazine feeds  
+→ [View Repo](https://github.com/bharat2005/queeny-app)
+
+---
+
+### 🔧 Tech Stack:
+React Native (Expo) · Firebase · TanStack Query · Reanimated · React Native Paper
+
+---
+
+📬 Let’s connect on [LinkedIn](www.linkedin.com/in/bharat-deshmukh-300950315)
+
