@@ -27,5 +27,5 @@ React Native (Expo) · Firebase · TanStack Query · Reanimated · React Native 
 
 ---
 
-📬 Let’s connect on [LinkedIn](www.linkedin.com/in/bharat-deshmukh-300950315)
+📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/bharat-deshmukh-300950315)
 
