@@ -14,7 +14,7 @@ A girly fashion shopping app with Firebase auth, optimistic cart, and infinite s
 
 #### 💬 Gossi  
 A cute social media MVP for gossip with image/video posts, reactions, and user filtering  
-→ [View Repo](https://github.com/bharat2005/gossi-app)
+→ [View Repo](https://github.com/bharat2005/gossii-app)
 
 #### 👑 Queeny  
 Salon booking app with 24+ screens, catalogs, stylist blogs, maps, and magazine feeds  
