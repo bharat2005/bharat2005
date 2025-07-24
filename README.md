@@ -24,9 +24,9 @@ Salon booking app with 24+ screens, catalogs, stylist blogs, maps, and magazine 
 → [Sketch Version](https://github.com/bharat2005/app-3-queeny)
 
 #4 💮 DarLee  
-Ai based Menstual periods and mood tracker and predictor, with ai campanian and curated articles on selfcare and hormones.
+Ai based Menstual periods and mood tracker and predictor, with ai campanian and curated articles on selfcare and hormones
 → [Main App](https://github.com/bharat2005/darlee-app)  
-→ [Sketch Version](https://github.com/bharat2005/app-3-queeny)
+→ [Sketch Version](https://github.com/bharat2005/app-4-darlee)
 
 More Coming soon...
 
