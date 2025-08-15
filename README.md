@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Bharat!
 
-🚀 React Native Developer | Building 100 Emotionally Designed MVPs  
-🎯 On a mission to create “Mupple” – a dating app for college students  
+🚀 React Native Developer | Building 100 Emotionally Designed MVPs
 📍 2nd-Year CSE @ LPU | Open to Internships  
 
 ---
