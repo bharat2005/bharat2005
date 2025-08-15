@@ -35,7 +35,7 @@ More Coming soon...
 ---
 
 ### 🔧 Tech Stack:
-React Native CLI (Expo Bare) · Firebase (Android SDK) 
+React Native CLI · Expo · Firebase
 
 ---
 
