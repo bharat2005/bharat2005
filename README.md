@@ -5,7 +5,7 @@
 
 ---
 
-### 🌸 My 100 MVPs:
+### 🌸 My 100 Apps:
 
 #1 ✨ Mizzy  
 A girly fashion shopping app with Firebase auth, optimistic cart, and infinite scroll  
