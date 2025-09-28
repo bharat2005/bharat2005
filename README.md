@@ -39,7 +39,3 @@ Android (Kotlin · Jetpack Compose) · React Native (CLI · Expo · JavaScript )
 ---
 
 📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/bharat-deshmukh-300950315)
-
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-
