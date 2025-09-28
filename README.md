@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bharat!
 
-🚀 React Native Developer | Building 100 Emotionally Designed MVPs
-📍 2nd-Year CSE @ LPU | Open to Internships  
+🚀 Mobile App Developer | Android (Kotlin · Jetpack Compose) · React Native (CLI · Expo · JavaScript ) · React JS · Firebase
+📍 2nd-Year CSE @ LPU | Building 100 Emotionally Designed Apps | Open to Internships  
 
 ---
 
@@ -34,7 +34,7 @@ More Coming soon...
 ---
 
 ### 🔧 Tech Stack:
-React Native CLI · Expo · Firebase
+Android (Kotlin · Jetpack Compose) · React Native (CLI · Expo · JavaScript ) · React JS · Firebase
 
 ---
 
