@@ -34,7 +34,7 @@ More Coming soon...
 ---
 
 ### 🔧 Tech Stack:
-Android (Kotlin · Jetpack Compose) · React Native (CLI · Expo · JavaScript ) · React JS · Firebase
+Android (Kotlin · Jetpack Compose) · React Native (CLI · Expo · JavaScript ) · Firebase
 
 ---
 
