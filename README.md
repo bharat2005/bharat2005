@@ -5,7 +5,12 @@ Mobile App Developer | Android (Jetpack Compose · Kotlin) · Cross-Platform (Re
 ---
 
 ### 🔧 Tech Stack:
-Android (Kotlin · Jetpack Compose) · React Native (CLI · Expo · JavaScript ) · Firebase
+Android: Kotlin, Jetpack Compose, Android Studio
+Cross-Platform: React Native (CLI & Expo), JavaScript, TanStack Query, Zustand
+Web: React.js, Material UI (MUI), JS
+Backend & Database: Firebase, Flask (basic)
+Programming Languages: Kotlin, JavaScript, Python
+Tools & Workflow: Git & GitHub, Command Line
 
 ---
 
