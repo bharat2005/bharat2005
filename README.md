@@ -59,9 +59,25 @@
 ---
 
 ## 🚀 GitHub Stats
+
 <p align="center">
-  <img alt="Bharat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bharat2005&show_icons=true&theme=radical&hide_border=true"/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat2005&layout=compact&theme=radical&hide_border=true"/>
+
+  <!-- Overall GitHub Stats -->
+  <img alt="Bharat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bharat2005&show_icons=true&count_private=true&hide_border=false&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="49%"/>
+  
+  <!-- Top Languages -->
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat2005&layout=compact&hide_border=false&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="49%"/>
+
+</p>
+
+<p align="center">
+
+  <!-- GitHub Streak -->
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat2005&theme=tokyonight&hide_border=false&background=0d1117&stroke=58a6ff&fire=ff7b72&currStreakNum=58a6ff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=c9d1d9" width="49%"/>
+
+  <!-- Extra Stats -->
+  <img alt="GitHub Extra Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=58a6ff" width="49%"/>
+
 </p>
 
 
