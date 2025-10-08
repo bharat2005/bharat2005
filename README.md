@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Bharat Deshmukh!
 
-🚀 Mobile App Developer | Android (Kotlin · Jetpack Compose) · React Native (CLI · Expo · JavaScript ) · React JS · Firebase
-📍 2nd-Year CSE @ LPU | Building 100 Emotionally Designed Apps | Open to Internships  
+Mobile App Developer | Android (Jetpack Compose · Kotlin) · Cross-Platform (React Native CLI · Expo · JavaScript) · React JS · Firebase | Building 100 Emotionally Designed Apps | Open to Internships
 
 ---
 
