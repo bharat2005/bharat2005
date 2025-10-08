@@ -64,16 +64,4 @@
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat2005&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
----
-
-## 🎯 Projects Highlights
-<p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="150px" alt="Projects GIF"/>
-</p>
-
-- **Emotionally Designed Apps** – Android & Cross-platform apps focused on user experience  
-- **React JS Projects** – Interactive web apps with React & Material UI  
-- **Firebase Integration** – Backend & cloud-based solutions for mobile and web  
-
----
 
