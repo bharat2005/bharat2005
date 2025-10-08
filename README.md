@@ -3,6 +3,10 @@
 </p>
 
 <h1 align="center">Hi, I'm Bharat Deshmukh! 👋</h1>
+<p align="center">
+  <strong>Mobile App Developer</strong> | Android (Jetpack Compose · Kotlin) | Cross-Platform (React Native · Expo · JavaScript) | React JS | Firebase<br>
+  💡 Building <strong>100 Emotionally Designed Apps</strong> | 🌱 Open to Internships
+</p>
 
 ---
 
@@ -82,6 +86,7 @@
   <a href="https://www.linkedin.com/in/bharat-deshmukh-300950315"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bharatvdeshm2005@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+<br><br>
 
 
 
