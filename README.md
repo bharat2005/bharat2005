@@ -21,7 +21,7 @@
   <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
   <img alt="Expo" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/>
-  <br>
+  <br><br>
 
 
   <!-- Web Development -->
@@ -36,7 +36,7 @@
   <strong>⚙️ Backend & Database</strong><br><br>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <br>
+  <br><br>
 
   
   <!-- Programming Languages -->
@@ -44,7 +44,7 @@
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <br>
+  <br><br>
 
 
   <!-- Tools & Workflow -->
@@ -63,16 +63,16 @@
 
   <!-- Overall GitHub Stats -->
   <img alt="Bharat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bharat2005&show_icons=true&count_private=true&hide_border=false&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&height=180" width="49%"/>
-  
-  <!-- Top Languages -->
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat2005&layout=compact&hide_border=false&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&height=180" width="49%"/>
+
+   <!-- GitHub Streak -->
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat2005&theme=tokyonight&hide_border=false&background=0d1117&stroke=58a6ff&fire=ff7b72&currStreakNum=58a6ff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=c9d1d9&height=180" width="49%"/>
 
 </p>
 
 <p align="center">
 
-  <!-- GitHub Streak -->
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat2005&theme=tokyonight&hide_border=false&background=0d1117&stroke=58a6ff&fire=ff7b72&currStreakNum=58a6ff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=c9d1d9&height=180" width="49%"/>
+  <!-- Top Languages -->
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat2005&layout=compact&hide_border=false&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&height=180" width="49%"/>
 
 </p>
 
