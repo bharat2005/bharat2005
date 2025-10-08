@@ -10,7 +10,7 @@
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🔧 Technical Skills
 
 <p align="center">
 
