@@ -4,8 +4,10 @@
 
 <h1 align="center">Hi, I'm Bharat Deshmukh! 👋</h1>
 <p align="center">
-  <strong>Mobile App Developer</strong> | Android (Jetpack Compose · Kotlin) | Cross-Platform (React Native · Expo · JavaScript) | React JS | Firebase<br>
-  💡 Building <strong>100 Emotionally Designed Apps</strong> | 🌱 Open to Internships
+  <strong>
+    Mobile App Developer | Android (Jetpack Compose · Kotlin) | Cross-Platform (React Native · Expo · JavaScript) | React JS | Firebase<br>
+    💡 Building 100 Emotionally Designed Apps | 🌱 Open to Internships
+    </strong> 
 </p>
 
 ---
