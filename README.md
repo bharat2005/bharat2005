@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Bharat Deshmukh! 👋</h1>
-<p align="center">
+<p align="left">
   <strong>Mobile App Developer</strong> | Android (Jetpack Compose · Kotlin) | Cross-Platform (React Native · Expo · JavaScript) | React JS | Firebase<br>
   💡 Building <strong>100 Emotionally Designed Apps</strong> | 🌱 Open to Internships
 </p>
@@ -23,6 +23,7 @@
   <img alt="Expo" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/>
   <br>
 
+
   <!-- Web Development -->
   <strong>🌐 Web Development</strong><br><br>
   <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
@@ -30,11 +31,13 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <br>
 
+
   <!-- Backend & Database -->
   <strong>⚙️ Backend & Database</strong><br><br>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <br>
+
   
   <!-- Programming Languages -->
   <strong>💻 Programming Languages</strong><br><br>
@@ -42,6 +45,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <br>
+
 
   <!-- Tools & Workflow -->
   <strong>🛠 Tools & Workflow</strong><br><br>
@@ -70,9 +74,6 @@
   <!-- GitHub Streak -->
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat2005&theme=tokyonight&hide_border=false&background=0d1117&stroke=58a6ff&fire=ff7b72&currStreakNum=58a6ff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=c9d1d9&height=180" width="49%"/>
 
-  <!-- WakaTime / Extra Stats -->
-  <img alt="GitHub Extra Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=58a6ff&height=180" width="49%"/>
-
 </p>
 
 ---
@@ -82,9 +83,6 @@
   <a href="https://www.linkedin.com/in/bharat-deshmukh-300950315"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bharatvdeshm2005@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
----
-
 
 
 
