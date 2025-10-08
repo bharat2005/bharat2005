@@ -1,56 +1,89 @@
-# 👋 Hi, I'm Bharat Deshmukh!
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="150px" alt="Hello GIF"/>
+</p>
 
-**Mobile App Developer** | Android (Jetpack Compose · Kotlin) | Cross-Platform (React Native CLI · Expo · JavaScript) | React JS | Firebase  
-💡 Building **100 Emotionally Designed Apps** | 🌱 Open to Internships
-
----
-
-### 🔧 Tech Stack
-
-#### 📱 Mobile Development
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-
-#### 🌐 Web Development
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### ⚙️ Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-#### 💻 Programming Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### 🛠 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Command Line](https://img.shields.io/badge/CLI-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<h1 align="center">Hi, I'm Bharat Deshmukh! 👋</h1>
+<p align="center">
+  <strong>Mobile App Developer</strong> | Android (Jetpack Compose · Kotlin) | Cross-Platform (React Native · Expo · JavaScript) | React JS | Firebase<br>
+  💡 Building <strong>100 Emotionally Designed Apps</strong> | 🌱 Open to Internships
+</p>
 
 ---
 
-### 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat-deshmukh-300950315)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+## 🔧 Tech Stack & Tools
+
+<p align="center">
+  <!-- Mobile -->
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- Web -->
+  <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img alt="Material UI" src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<p align="center">
+  <!-- Backend & DB -->
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- Programming Languages -->
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- Tools -->
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="CLI" src="https://img.shields.io/badge/Command_Line-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
 
 ---
 
-### 🚀 GitHub Stats
-![Bharat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharat2005&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharat2005&layout=compact&theme=tokyonight&hide_border=true)
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/bharat-deshmukh-300950315"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-### ⚡ Fun Fact
-_"I’m on a mission to create apps that not only function well but also feel right emotionally!"_
+## 🚀 GitHub Stats
+<p align="center">
+  <img alt="Bharat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bharat2005&show_icons=true&theme=radical&hide_border=true"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat2005&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
 ---
 
-### ✨ Visitors
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bharat2005.bharat2005)
+## 🎯 Projects Highlights
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="150px" alt="Projects GIF"/>
+</p>
+
+- **Emotionally Designed Apps** – Android & Cross-platform apps focused on user experience  
+- **React JS Projects** – Interactive web apps with React & Material UI  
+- **Firebase Integration** – Backend & cloud-based solutions for mobile and web  
+
+---
+
+## ⚡ Fun Fact
+> "I’m on a mission to create apps that not only function well but also feel right emotionally!"
+
+---
+
+## ✨ Visitors
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bharat2005.bharat2005" alt="visitor badge"/>
+</p>
+
