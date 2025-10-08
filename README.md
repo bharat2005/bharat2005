@@ -30,14 +30,14 @@
   <img alt="Material UI" src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-  <br><br>
+  <br>
 
   <!-- Backend & Database -->
   <strong>⚙️ Backend & Database</strong><br><br>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
-  <br><br>
+  <br>
 
   <!-- Programming Languages -->
   <strong>💻 Programming Languages</strong><br><br>
@@ -45,7 +45,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-  <br><br>
+  <br>
 
   <!-- Tools & Workflow -->
   <strong>🛠 Tools & Workflow</strong><br><br>
@@ -53,14 +53,6 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Command Line" src="https://img.shields.io/badge/Command_Line-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
-</p>
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/bharat-deshmukh-300950315"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:bharatvdeshm2005@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -86,6 +78,16 @@
   <img alt="GitHub Extra Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=58a6ff&height=180" width="49%"/>
 
 </p>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/bharat-deshmukh-300950315"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:bharatvdeshm2005@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
 
 
 
