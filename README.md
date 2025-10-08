@@ -36,9 +36,7 @@
   <strong>⚙️ Backend & Database</strong><br><br>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-
   <br>
-
   <!-- Programming Languages -->
   <strong>💻 Programming Languages</strong><br><br>
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
