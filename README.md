@@ -6,7 +6,7 @@
 <p align="center">
   <strong>
     Mobile App Developer | Android (Jetpack Compose · Kotlin) | Cross-Platform (React Native · Expo · JavaScript) | React JS | Firebase<br>
-    💡 Building 100 Emotionally Designed Apps | 🌱 Open to Internships
+    💡 Building 100 Emotionally Designed Apps
     </strong> 
 </p>
 
