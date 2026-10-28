@@ -1,5 +1,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhrNmZhMHV2OW11MmdndjJ3OXE3ZHZ4Z2FsY2FyeXF0dm9idzJqNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JNfFOUZAYtjRPCr7jF/giphy.gif" width="150px" alt="Hello GIF"/>
+
+  <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm0wc3hhaTlhaTJsdjdydmMwaXdpOHRqajVudmVqY2djdW82bWZjNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bCtviWi5CeO3isMcrz/giphy.gif" width="150px" alt="Hello GIF2"  />
+  
 </p>
 
 <h1 align="center">Hi, I'm Bharat Deshmukh! 👋</h1>
