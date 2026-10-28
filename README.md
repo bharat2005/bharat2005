@@ -1,15 +1,9 @@
 <p align="center">
 
 
-  <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzd4ZDZiMjBtN3g2bTJnbmh1dDZ1eXc4bWMyMWY2YmpibnByOHYyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JNfFOUZAYtjRPCr7jF/giphy.gif" width="200px" alt="Hello GIF2"  />
+  <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzd4ZDZiMjBtN3g2bTJnbmh1dDZ1eXc4bWMyMWY2YmpibnByOHYyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JNfFOUZAYtjRPCr7jF/giphy.gif" width="250px" alt="Hello GIF2"  />
 
   
-</p>
-<p align="center">
-  <strong>
-    Mobile App Developer | Android (Jetpack Compose · Kotlin) | Cross-Platform (React Native · Expo · JavaScript) | React JS | Firebase<br>
-    💡 Building 100 Emotionally Designed Apps
-    </strong> 
 </p>
 
 ---
