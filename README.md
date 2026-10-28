@@ -42,34 +42,3 @@
   <img alt="Command Line" src="https://img.shields.io/badge/Command_Line-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
 </p>
-
----
-
-## 🚀 GitHub Stats
-
-<p align="center">
-
-  <!-- Overall GitHub Stats -->
-  <img alt="Bharat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bharat2005&show_icons=true&count_private=true&hide_border=false&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&height=180" width="49%"/>
-
-</p>
-
-
-<p align="center">
-
-   <!-- GitHub Streak -->
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat2005&theme=tokyonight&hide_border=false&background=0d1117&stroke=58a6ff&fire=ff7b72&currStreakNum=58a6ff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=c9d1d9&height=180" width="49%"/>
-
-
-  <!-- Top Languages -->
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat2005&layout=compact&hide_border=false&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&height=180" width="49%"/>
-
-</p>
-
-
----
-
-## 🌐 Let's Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/bharat-deshmukh-300950315"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
