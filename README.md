@@ -1,5 +1,3 @@
-## 🔧 Technical Skills
-
 <p align="center">
 
   <!-- Mobile Development -->
