@@ -5,8 +5,6 @@
 
   
 </p>
-
-<h1 align="center">Hi, I'm Bharat Deshmukh! 👋</h1>
 <p align="center">
   <strong>
     Mobile App Developer | Android (Jetpack Compose · Kotlin) | Cross-Platform (React Native · Expo · JavaScript) | React JS | Firebase<br>
