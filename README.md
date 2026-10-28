@@ -1,13 +1,3 @@
-<p align="center">
-
-
-  <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzd4ZDZiMjBtN3g2bTJnbmh1dDZ1eXc4bWMyMWY2YmpibnByOHYyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JNfFOUZAYtjRPCr7jF/giphy.gif" width="150px" alt="Hello GIF2"  />
-
-  
-</p>
-
----
-
 ## 🔧 Technical Skills
 
 <p align="center">
